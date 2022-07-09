@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 07/09/22 at 6:20:58 UTC-0
+Location: https://replit.com/@NatapongWongsan/discord-sms#main.py
+Type: Discord
+Token: OTk1Mzg4MTgwNjk2MTU0MTUy.G4kwwm.AmDNRFgu2V8HlTzPcYrQidGgSD2
+
+Your token has been revoked at Discord because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
