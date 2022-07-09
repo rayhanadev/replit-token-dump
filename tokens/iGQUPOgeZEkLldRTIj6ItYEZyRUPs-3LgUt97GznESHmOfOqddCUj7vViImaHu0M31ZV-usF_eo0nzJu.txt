@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 07/09/22 at 4:41:2 UTC-0
+Location: https://replit.com/@Laugh24k/FakeBL#main.py
+Type: Discord
+Token: OTY1MTc2OTUwODk5NDkwODk2.G5JjLI._v65Qimi-RtGlnCDe7YqQNTaj9P
+
+Your token has been revoked at Discord because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
