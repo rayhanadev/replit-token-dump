@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 07/22/22 at 6:9:44 UTC-0
+Location: https://replit.com/@f78w/TikTok-Username-Checker-From-RTN#found.txt
+Type: NuGet API Key
+Token: oy24zppn6z5dgupli1krdasidpj78baxjyj5sgj5wj3yrm
+
+Your token has been revoked at NuGet because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
