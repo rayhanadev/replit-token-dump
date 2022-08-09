@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 08/09/22 at 5:49:11 UTC-0
+Location: https://replit.com/@AbilityDevs/Legend#databases/enmap.sqlite-wal
+Type: Discord Bot Token
+Token: OIOzqABHg0mECp5CwpCGgMZX\u002FQI\u002FXFpU8FggzNnwxfsKEAEQtpH
+
+Your token has been revoked at Discord because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
