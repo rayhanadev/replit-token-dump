@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 08/31/22 at 3:1:53 UTC-0
+Location: https://replit.com/@MoezBen/goAheadTravel#env
+Type: Slack Test API Key
+Token: sk_test_51KOktUA1H3VpG3RzZOa7Tmv
+
+Your token has been revoked at Slack because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
