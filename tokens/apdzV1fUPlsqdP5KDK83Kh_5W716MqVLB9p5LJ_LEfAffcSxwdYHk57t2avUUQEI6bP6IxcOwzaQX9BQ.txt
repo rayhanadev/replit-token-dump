@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 09/19/22 at 3:28:43 UTC-0
+Location: https://replit.com/@STCollier/Maple-The-Magic-Squirrel#game/love.wasm
+Type: Google API Key
+Token: AIzaXpox0FoIjELcgmCkwzPAqCllHmLzPAAwqt\
+
+Your token has been revoked at Google because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
