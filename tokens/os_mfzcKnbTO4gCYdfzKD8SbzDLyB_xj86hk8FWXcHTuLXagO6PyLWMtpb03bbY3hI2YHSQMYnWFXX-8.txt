@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 09/25/22 at 7:14:27 UTC-0
+Location: https://replit.com/@Ofk1948/xd#pages/api/util/repos.jsx
+Type: Github Personal Access Token
+Token: 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
+
+Your token has been revoked at Github because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
