@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 10/30/22 at 10:25:45 UTC-0
+Location: https://replit.com/@hassentahri/esurveys-frontend-30-Beta#src/googlecloudvisionapi.ts
+Type: Google API Key
+Token: AIzaSyCDyn1yCKlutlT5dDkLFavE4iK3FOidL7I
+
+Your token has been revoked at Google because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
