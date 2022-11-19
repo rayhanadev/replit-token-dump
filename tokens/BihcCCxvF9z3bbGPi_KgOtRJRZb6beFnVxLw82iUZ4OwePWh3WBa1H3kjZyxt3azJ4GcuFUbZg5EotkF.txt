@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 11/19/22 at 3:32:58 UTC-0
+Location: https://replit.com/@KyawAung1/bot#config/config.php
+Type: Slack Live API Key
+Token: sk_live_51M5j6mFfovNkqO6vppc7CvD
+
+Your token has been revoked at Slack because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
