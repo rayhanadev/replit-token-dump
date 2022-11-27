@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 11/27/22 at 4:7:4 UTC-0
+Location: https://replit.com/@DeanHiranburana/Minecraft-Bedrock#index.html
+Type: NuGet API Key
+Token: oy2gv05p3pj305p9bsv05p9clb05peyv305pkl4v05pklx
+
+Your token has been revoked at NuGet because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
