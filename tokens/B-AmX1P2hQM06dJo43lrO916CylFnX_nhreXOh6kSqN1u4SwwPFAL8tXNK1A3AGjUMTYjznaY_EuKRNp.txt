@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 12/11/22 at 2:3:33 UTC-0
+Location: https://replit.com/@TanNguyen90/Le-Huu-Duc#modules/commands/audio.js
+Type: Google API Key
+Token: AIzaSyBKgc6dhJ7kn4cSxqVOckkGFL0h4cryxKQ
+
+Your token has been revoked at Google because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
