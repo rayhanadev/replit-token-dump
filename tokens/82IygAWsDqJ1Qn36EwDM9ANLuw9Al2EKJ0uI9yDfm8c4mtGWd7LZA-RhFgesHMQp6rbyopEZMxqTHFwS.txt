@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 12/12/22 at 2:4:37 UTC-0
+Location: https://replit.com/@ChanchalRathor/backendTut1-1#index.js
+Type: Mailchimp API Key
+Token: b23bdef6bcf6590c78c5d819df47b711-us11
+
+Your token has been revoked at Mailchimp because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
