@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 12/30/22 at 3:59:13 UTC-0
+Location: https://replit.com/@NikanAmeri/Goofy-Npcs#signup.html
+Type: Google API Key
+Token: AIzaSyDPbt6FFyNQs2dcABOJCEFLd9AiVqpp9kw
+
+Your token has been revoked at Google because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
