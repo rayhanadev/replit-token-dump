@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 05/29/23 at 6:18:6 UTC-0
+Location: https://replit.com/@vithalmhetre/googlecalenderintegration#google_calendar_integration/calendar_integration/views.py
+Type: Google API Key
+Token: AIzaSyCpXnCTaBwWeZYX5RXdAdZQPHXuSwAcPOM
+
+Your token has been revoked at Google because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
