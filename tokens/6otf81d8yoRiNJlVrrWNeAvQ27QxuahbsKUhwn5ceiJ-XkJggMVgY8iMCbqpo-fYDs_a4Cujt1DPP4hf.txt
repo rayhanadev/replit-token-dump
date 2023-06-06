@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 06/06/23 at 11:6:57 UTC-0
+Location: https://replit.com/@EmanFatima13/Eman-1#modules/commands/openai.js
+Type: OpenAI API Key
+Token: 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
+
+Your token has been revoked at OpenAI because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
