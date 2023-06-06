@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 06/06/23 at 11:7:7 UTC-0
+Location: https://replit.com/@EwrParshid/Kawaki-Zane#modules/commands/0ai.js
+Type: OpenAI API Key
+Token: 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
+
+Your token has been revoked at OpenAI because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
