@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 06/17/23 at 3:50:50 UTC-0
+Location: https://replit.com/@Isteak-ahmedahm/MiniatureUnawareVaporware-1#main.py
+Type: OpenAI API Key
+Token: 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
+
+Your token has been revoked at OpenAI because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
