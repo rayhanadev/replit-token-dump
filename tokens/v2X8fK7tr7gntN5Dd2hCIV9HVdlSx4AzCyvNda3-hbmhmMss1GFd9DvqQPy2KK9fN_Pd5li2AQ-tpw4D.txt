@@ -1,0 +1,12 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Date: 06/22/23 at 12:42:50 UTC-0
+Location: https://replit.com/@bourgems/D-bot#config.json
+Type: Google API Key
+Token: AIzaSyBtiD442srhczDpcg8xbhinP423BeUFXB8
+
+Your token has been revoked at Google because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
